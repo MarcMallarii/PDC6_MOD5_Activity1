@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC6_MOD5_Activity1.Android", "PDC6_MOD5_Activity1\PDC6_MOD5_Activity1.Android\PDC6_MOD5_Activity1.Android.csproj", "{96E5D831-E7F3-438C-B9EC-701BD84A73EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PDC6_MOD5_Activity1", "PDC6_MOD5_Activity1\PDC6_MOD5_Activity1\PDC6_MOD5_Activity1.csproj", "{3E48584F-5123-4EB9-90CF-27E88CCEF405}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96E5D831-E7F3-438C-B9EC-701BD84A73EE}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E48584F-5123-4EB9-90CF-27E88CCEF405}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15DF76D7-76BE-43F9-9F7A-3B5113539D04}
+	EndGlobalSection
+EndGlobal
